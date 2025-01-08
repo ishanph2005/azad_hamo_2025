@@ -1,1 +1,1 @@
-# azad_hamo_2025
+This repository is for Hardware Modelling GC software stack
